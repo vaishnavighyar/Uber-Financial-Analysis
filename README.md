@@ -20,10 +20,10 @@ This report mainly includes **KPIs** responsible for changes in gross margin, ne
 
 **Key Findings:-**
 
-1. In terms of revenue generated per region, the **US and Canada** are the largest sources of revenue, generating $27 billion in 2023.
-2. Year-on-year there has been a **23% increase in Trips and a 19% increase in Gross booking**s.
-3. Uber has generated a total of **$4.1 billion Adj. EBITDA** with 140 Million MAPCs in FY23.
-4. FY23 becomes the second profitable year after 2018, with an **ROE** of **17.8%** and **ROA** of **5%.**
+1. In terms of revenue generated per region, the **_**US and Canada**_** are the largest sources of revenue, generating $27 billion in 2023.
+2. Year-on-year there has been a **_23% increase in Trips and a 19% increase in Gross bookings._**
+3. Uber has generated a total of **_$4.1 billion Adj. EBITDA with 140 Million MAPCs in FY23._**
+4. FY23 becomes the second profitable year after 2018, with an **_ROE of 17.8% and ROA of 5%._**
 
 
 **Sources used:-**
